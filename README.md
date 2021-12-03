@@ -1,5 +1,3 @@
-# dotfiles
-My Arch Dotfiles:
 # Alacritty:
 Changed colors to Nord-Theme
 Added keybinds for copy and caste
