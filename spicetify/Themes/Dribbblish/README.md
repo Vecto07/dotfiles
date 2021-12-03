@@ -1,4 +1,13 @@
+
+
+I editedt the NORD-Dark colors
+
+
+
 # Dribbblish
+
+
+
 
 ### Base
 ![base](base.png)
