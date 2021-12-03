@@ -1,6 +1,4 @@
-
-
-I editedt the NORD-Dark colors
+#I edited the NORD-Dark colors
 
 
 
